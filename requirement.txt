@@ -1,0 +1,3 @@
+download anconda https://repo.anaconda.com/archive/Anaconda3-2023.03-1-Windows-x86_64.exe
+open createproject from anaconda prompt(Anaconda3)
+    -->ex: c:\\path to folder>createproject.exe
